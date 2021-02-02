@@ -1,7 +1,7 @@
 
 
 # Here is Your Drive Folder Name You can Replace it with Your Desire name(Optional)
-drive_folder_name = "GDriveUploaderBot"
+drive_folder_name = "Mr.Dani"
 
 
 # Enter Your Mega email And Pass (Required)
@@ -25,15 +25,14 @@ You Can Use 👉/revoke  command
  You Can Upload Any Internet Files On Your google Drive Account.
 
 <b>🔰Links Supported By Bot🔰</b>
+
             🔗 Direct Links 
-            🔗 Openload links [Max Speed 
-              500 KBps :(   ]
+            🔗 Openload links [Max Speed 500 KBps :(   ]
             🔗 Dropbox links 
-            🔗  Mega links
-            
+            🔗 Mega links
             🔗 More On Its way:)
                 
-Bug Report @kavinduaj
+⚜️ Bug Report @kavinduaj
         """
 DP_DOWNLOAD = "Dropbox Link !! 📥Downloading Started ..."
 OL_DOWNLOAD = "Openload Link !! 📥Downloading Started ... \n Openload Links Are Extremely Slow"
@@ -41,14 +40,14 @@ PROCESSING = "⏳ Processing Your Request ...!!"
 DOWN_TWO = True
 DOWNLOAD = "📥 Downloading Started ..."
 DOWN_MEGA = "📥 Downloading Started... \n  Mega Links are \n Extremely Slow :("
-DOWN_COMPLETE = " Downloading complete !!"
+DOWN_COMPLETE = " Downloading complete !!🎉"
 NOT_AUTH = "You Are Not Authorised To Using this Bot \n\n Please Authorise Me Using /auth  \n\n @kavinduaj"
 REVOKE_FAIL = "You Are Already UnAuthorised \n. Please Use /auth To Authorise \n\n report At @kavinduaj"
-AUTH_SUCC = "Authorised Successfully  !! \n\n Now Send me A direct Link :)"
+AUTH_SUCC = "Authorised Successfully !!🎉 \n\n Now Send me A direct Link :)"
 ALREADY_AUTH = "You Are Already Authorised ! \n\n Wanna Change Drive Account? \n\n Use /revoke \n\n report At @kavinduaj"
 AUTH_URL = '<a href ="{}">Vist This Url</a> \n Generate And Copy Your Google Drive Token And Send It To Me'
 UPLOADING = "Download Complete !!🎉 \n Uploading Your file 📤"
-REVOKE_TOK = " Your Token is Revoked Successfully !! \n\n Use /auth To Re-Authorise Your Drive Acc. "
+REVOKE_TOK = " Your Token is Revoked Successfully !!🎉 \n\n Use /auth To Re-Authorise Your Drive Acc. "
 # DOWN_PATH = "Downloads\\" #windows path
 DOWN_PATH = "Downloads/"  # Linux path
 DOWNLOAD_URL = "Your File Uploaded Successfully🎉 \n\n <b>Filename</b> : {} \n\n <b> Size</b> : {} MB \n\n <b>Download</b> {}"
@@ -58,12 +57,15 @@ DROPBOX = True
 MEGA = True
 
 
-UPDATE = """ <b>🔰Updates🔰</b>
-            ✅ MEGA LINK added
-            ✅ Error Handling Improved
+UPDATE = """ 
+<b>🔰Updates🔰</b>
+
+    ✅ MEGA LINK added
+    ✅ Error Handling Improved
 
 <b>🔰Links Supported By Bot🔰</b>
-            ✅ Direct Links 
-            ✅ Openload links [Max Speed 500 KBps :(  ]
-            ✅ Dropbox links 
-            ✅ Mega links (only files)+ More are in way:) """
+
+    ✅ Direct Links 
+    ✅ Openload links [Max Speed 500 KBps :(  ]
+    ✅ Dropbox links 
+    ✅ Mega links (only files)+ More are in way:) """
